@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;GACG,eAAe;GACf,MAAM;GACN,OAAO;GACP,aAAa;AAChB,C","sources":["webpack:///./src/style.css"],"sourcesContent":["canvas{\r\n   position: fixed;\r\n   top: 0;\r\n   left: 0;\r\n   outline: none;\r\n}"],"names":[],"sourceRoot":""}
